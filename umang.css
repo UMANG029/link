@@ -1,0 +1,39 @@
+.container{
+height: 88vmin;
+width: 60vmin;
+background-color: rgb(170, 239, 241);
+border-top-left-radius: 4vmin;
+border-top-right-radius: 4vmin;
+position: relative;
+top: 14vmin;
+left: 20vmin;
+display: flex;
+flex-wrap: wrap;
+
+}
+html{
+
+    background-color: cadetblue;
+}
+#screen{
+
+width: 59vmin;
+height: 17vmin;
+background-color:rgb(11, 9, 9);
+color: rgb(239, 9, 9);
+position: relative;
+
+font-size: 8vmin;
+
+}
+button{
+margin: 0%;
+height: 14vmin;
+width: 14vmin;
+
+position: relative;
+
+
+
+font-size: 6vmin;
+}
